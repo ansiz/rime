@@ -1,0 +1,64 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	79
+#@/user_id	4f882017-46fa-4b63-94e8-1e731e7a634e
+bei 	唄	c=1 d=1 t=41
+bu shi 	不是	c=1 d=1 t=62
+ce shi 	測試	c=5 d=4.02521 t=76
+ce shi yi xia 	測試一下	c=1 d=1 t=29
+da suan 	打算	c=1 d=1 t=73
+de 	的	c=2 d=1.76721 t=69
+diao 	掉	c=0 d=0.1 t=49
+er yi 	而已	c=1 d=1 t=53
+fei lian 	飛廉	c=1 d=1 t=31
+gan jue 	感覺	c=1 d=1 t=77
+guan jian shi 	關鍵是	c=1 d=1 t=70
+guo 	過	c=1 d=1 t=75
+ha ha ha 	哈哈哈	c=1 d=1 t=23
+hai xing 	還行	c=1 d=1 t=30
+hong zhen 	鴻貞	c=2 d=1.99501 t=25
+hui you 	會有	c=1 d=1 t=42
+jian ti 	簡體	c=4 d=3.652 t=33
+jie shou 	接受	c=1 d=1 t=58
+jiu 	久	c=4 d=3.75146 t=59
+jiu 	就	c=1 d=1 t=39
+jiu shi 	就是	c=2 d=1.91851 t=66
+ke hu duan 	客戶端	c=1 d=1 t=56
+ke yi 	可以	c=1 d=1 t=5
+ma 	嗎	c=1 d=1 t=8
+ma yi 	螞蟻	c=1 d=1 t=28
+me 	麼	c=1 d=1 t=45
+mei 	沒	c=1 d=1 t=72
+neng 	能	c=1 d=1 t=57
+pin yin 	拼音	c=1 d=1 t=15
+sha 	啥	c=2 d=1.90484 t=63
+shen me 	什麼	c=1 d=1 t=3
+shu ru fa 	輸入法	c=3 d=2.49383 t=79
+shu xu guan 	鼠鬚管	c=1 d=1 t=32
+shu zi 	數字	c=1 d=1 t=27
+shuo 	說	c=1 d=1 t=68
+si hu 	似乎	c=1 d=1 t=61
+ta 	他	c=1 d=1 t=74
+wang xi zhi 	王羲之	c=2 d=1.98511 t=21
+wen ti 	問題	c=2 d=1.90484 t=64
+wo 	我	c=2 d=1.97045 t=71
+wu fei 	無非	c=1 d=1 t=48
+xi zhi 	羲之	c=3 d=2.97516 t=22
+xian cheng 	線程	c=1 d=1 t=52
+xiao guo 	效果	c=1 d=1 t=17
+ya 	呀	c=1 d=1 t=54
+yi dian 	一點	c=1 d=1 t=60
+yi gen 	一根	c=1 d=1 t=51
+yi xia 	一下	c=1 d=1.02774 t=28
+zai 	再	c=1 d=1 t=46
+zhan yong 	佔用	c=0 d=0.1 t=49
+zhan yong diao 	佔用掉	c=1 d=1 t=50
+zhe ge 	這個	c=3 d=2.53269 t=78
+zhe me 	這麼	c=1 d=1 t=67
+zhe shi 	這是	c=1 d=1 t=2
+zhi hu 	知乎	c=1 d=1 t=37
+zhi yao 	只要	c=1 d=1 t=55
+zhong wen 	中文	c=1 d=1 t=7
+zi song 	梓凇	c=1 d=1 t=26

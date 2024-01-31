@@ -1,0 +1,18 @@
+# Rime dictionary
+# encoding: utf-8
+# 配置地址: https://github.com/ssnhd/rime
+# 花名
+
+name: luna_pinyin.huaming  # 要和文件名一致
+version: "2024.01.30"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+止语	zhi yu
+弌苇	yi wei
+火亚	huo ya
+鸿贞	hong zhen
+朗霁	lang ji
+青勤	qing qin
+三樵	san qiao
